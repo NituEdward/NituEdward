@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitu Edward</h1>
-<h3 align="center">A passionate QA Software Tester</h3>
+<h3 align="center">A passionate QA Software Engineer</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="nituedward" /> </p>
 
